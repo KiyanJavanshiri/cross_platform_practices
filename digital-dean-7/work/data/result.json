@@ -1,0 +1,5 @@
+[
+  {"requestId":"REQ-003","studentId":"ST-2025-0042","language":"uk","copies":2,"note":"Довідка, \"терміново\""},
+  {"requestId":"REQ-002","studentId":"ST-2025-0007","language":"en","copies":1,"note":"Шлях: data\\довідки"},
+  {"requestId":"REQ-006","studentId":"ST-2025-0099","language":"uk","copies":3,"note":"Перший рядок\r\nДругий рядок"}
+]
